@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-yuri-portela",
+  "version": "1.0.0",
+  "description": "Portfolio - Yuri Portela Product Designer",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
