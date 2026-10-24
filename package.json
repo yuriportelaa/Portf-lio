@@ -1,0 +1,9 @@
+{
+  "name": "yuri-portela-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Yuri Portela - Product Designer",
+  "scripts": {},
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
